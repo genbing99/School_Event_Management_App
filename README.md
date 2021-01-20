@@ -1,6 +1,6 @@
 # Dream Mobile Event Application
 
-Flutter is used as the framework for developing this application.
+Flutter is used as the framework and Firebase is the database for developing this application. You may download the apk file 'DreamEventFinal.apk' to open the app.
 
 This is a project regarding school event management system, built for students, parents, lecturers to create or join an event in school. This can help the related parties to get involved in the schools' events. User may create events, join events, join subgroups scan qr scan for attendance. 
 
