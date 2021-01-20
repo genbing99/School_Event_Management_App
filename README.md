@@ -24,5 +24,5 @@ Report 2: https://drive.google.com/file/d/1mxBQELYQJYFXzedXqgEVkyNPGymP3f6E/view
 Report 3: https://drive.google.com/file/d/1BgiQUMyKyhI8x7S5rfqui1UFmFC2IMyC/view?usp=sharing </br>
 
 ## Note 
-Please contact the owner (genbing67@gmail.com) for further details if you have any inquiries. </br>
+Please contact the owner, Liong Gen Bing (genbing67@gmail.com) for further details if you have any inquiries. </br>
 You may also contact the other collaborators, Leow Yen Siang (yensiang99@hotail.com), Ann Choi Hua En (huaen1998@gmail.com), and Pravin Kannappan (irpravin@gmail.com).
